@@ -1,0 +1,45 @@
+{
+  "personal": {
+    "name": "Fernando Pessoa",
+    "email": "papito@teste.com.br",
+    "phone": "11 99999-9999",
+    "consultancyType": "Individual",
+    "personType": "Pessoa Física",
+    "document": "65602930070",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/documentlorempdf.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed fringilla leo. Integer ultrices metus et est sagittis rhoncus.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+
+  "company": {
+    "name": "Fernando Pessoa",
+    "email": "papito@teste.com.br",
+    "phone": "11 99999-9999",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "92593311000120",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/documentlorempdf.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed fringilla leo. Integer ultrices metus et est sagittis rhoncus.",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
